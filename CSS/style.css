@@ -19,7 +19,7 @@ body{
 header{
   background: var(--dark);
   height: 720px;
-  width: 1350px;
+  width: 1300px;
   clip-path: circle(98% at 20% 25%);
   /*clip-path: polygon(0 0, 100% 0 ,98% 94%, 0% 100%);*/
 }
@@ -144,7 +144,7 @@ h2{
 
 #ABOUT{
   height:720px;
-  width: 1350px;
+  width: 1300px;
   /*padding: 4rem 0;*/
 }
 #ABOUT .navmenu{
@@ -279,7 +279,7 @@ h2{
 }
 #Skills{
   height:720px;
-  width: 1350px;
+  width: 1300px;
   /*padding-left: 20%;
   padding: 6.7rem;*/
 }
@@ -334,7 +334,7 @@ h2{
 
 #Services{
   height: 100%;
-  width: 1350px;
+  width: 1300px;
   /*padding: 4rem 0;*/
 }
 #Services .navmenu{
@@ -414,7 +414,7 @@ h2{
 }
 #contact{
   height:720px;
-  width: 1400px;
+  width: 1366px;
   background: var(--dark);
   color:var(--pure);
 }
